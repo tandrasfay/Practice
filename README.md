@@ -15,3 +15,9 @@ To strikethrough text, add two ~ on each side of the text.
 ```
 sudo apt-get install ipython ipython-notebook python-pip
 ```
+
+A really useful command for virtual box:
+``` sh
+git clone https://github.com/tandrasfay/questionnaire
+```
+It will clone the entire repository to the virtual machine so that you have the files you need.
