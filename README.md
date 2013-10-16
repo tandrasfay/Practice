@@ -21,3 +21,12 @@ A really useful command for virtual box:
 git clone https://github.com/tandrasfay/questionnaire
 ```
 It will clone the entire repository to the virtual machine so that you have the files you need.
+
+
+## Python Practice
+
+To run date and time, you must first import the datetime functionality:
+
+``` python
+from datetime import datetime
+```
