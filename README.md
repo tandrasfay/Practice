@@ -30,3 +30,10 @@ To run date and time, you must first import the datetime functionality:
 ``` python
 from datetime import datetime
 ```
+
+A useful command in python is to modify an object by adding something to it. There are two ways to do this:
+``` python
+x=[1,2,3]
+x[0]=x[0]+2
+x[1]+=3
+```
